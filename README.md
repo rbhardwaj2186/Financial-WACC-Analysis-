@@ -2,7 +2,8 @@
  This project involves calculating the Weighted Average Cost of Capital (WACC) for various financial instruments, including bonds, common stock, and preferred stock, to enhance investment decision-making and optimize capital structure.
 ## Introduction
 
-![Uploading TermDefinitions_wacc_final-626b8af9bfc741d6a9792fe0568242cd.png…]()
+![images](https://github.com/rbhardwaj2186/Financial-WACC-Analysis-/assets/143745073/ee0725ae-c879-4fee-a83b-553d9e04723b)
+
 
 
 Weighted Average Cost of Capital (WACC) is a crucial metric used in financial analysis to determine the average rate of return a company is expected to pay to all its security holders. This project aims to calculate WACC by analyzing various financial components and their respective market values.
