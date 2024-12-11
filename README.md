@@ -52,7 +52,7 @@ The Comprehensive WACC Analysis Project demonstrated the importance of accuratel
 
 To use this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/wacc-analysis.git`
+1. Clone the repository: `git clone github.com/rbhardwaj2186/Financial-WACC-Analysis-`
 2. Navigate to the project directory: `cd wacc-analysis`
 3. Run the analysis scripts using your preferred data analysis tools.
 
